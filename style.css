@@ -3,9 +3,9 @@ a{
   text-decoration: none;
   
 }
-.cabecalho-menu-item{
-  display: flex;
-  font-family: 'Courier New', Courier, monospace;
+.cabecalho-menu-item{ 
+  display: flex; 
+  font-family: 'Courier New', Courier, monospace; 
   }
 body {
     font-family: Arial, sans-serif;
