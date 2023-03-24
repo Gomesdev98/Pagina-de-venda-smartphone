@@ -1,4 +1,13 @@
 @charset "UTF-8";
+a{
+  text-decoration: none;
+  
+}
+.cabecalho-menu-item{
+  display: flex;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,7 +15,7 @@ body {
   }
   
   header {
-    background-color: #2791bb;
+    background-color:#2791bb;
     color: white;
     text-align: center;
     padding: 20px;
